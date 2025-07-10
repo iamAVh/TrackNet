@@ -1,0 +1,9 @@
+numpy==1.23.5
+pandas==1.5.3
+scipy==1.9.3
+opencv-python==4.6.0.66
+torch==1.12.1
+tensorboardX==2.5.1
+scikit-learn==1.2.2
+catboost==1.2
+tqdm==4.65.0
